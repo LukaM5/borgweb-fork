@@ -1,17 +1,4 @@
-.. image:: https://cdn.pbrd.co/images/vYSNCBV.png
-  :alt: Screenshot of BorgWeb
 
-What is BorgWeb?
-================
-
-BorgWeb is a browser-based user interface for `Borg Backup <https://borgweb.readthedocs.io/>`_.
-
-The UI is intended to help with everyday tasks, it is not intended as a full UI to everything borg can do.
-
-You'll need help of an admin to install and configure it, as well as to restore backups.
-
-Main features
--------------
 
 - BorgWeb (the web service) usually runs on the machine that is backed up with
   BorgBackup. You can use a web browser to access BorgWeb from the same
