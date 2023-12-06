@@ -14,16 +14,8 @@ This is a FORK:::::::::::::::::::
 Links
 =====
 
-* `Main Web Site <https://borgweb.readthedocs.io/en/latest/>`_
-* `PyPI packages <https://pypi.python.org/pypi/borgweb/>`_
-* `Github <https://github.com/borgbackup/borgweb/>`_
-* `Issue Tracker <https://github.com/borgbackup/borgweb/issues/>`_
-
-
 Notes
 -----
-
-NOT RELEASED DEVELOPMENT VERSIONS HAVE UNKNOWN COMPATIBILITY PROPERTIES.
 
 THIS IS SOFTWARE IN DEVELOPMENT, DECIDE YOURSELF WHETHER IT FITS YOUR NEEDS.
 
